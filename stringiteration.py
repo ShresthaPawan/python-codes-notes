@@ -13,6 +13,7 @@ q=len(p)
 for r in range(q):
     print(p[r]) 
      #or
-s=len(p)
+m="hello sir"
+s=len(m)
 for t in range(s-1,-1,-1):
-    print(p[t])
+    print(m[t])
