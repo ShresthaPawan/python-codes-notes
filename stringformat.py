@@ -1,0 +1,6 @@
+string="My name is {} and I am from {}".format("Pawan Shrestha","Nepal")
+print(string)
+string_1="Hello {}, Its me {}".format("World","hacker")
+print(string_1)
+index="A quick {1} fox jumps {2} a {0} dog".format("lazy","brown","over")
+print(index)
